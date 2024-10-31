@@ -1,0 +1,75 @@
+#color_body {
+   background-color: rgb(39, 50, 56);
+   margin: 0;
+   height: 100vh;
+}
+
+.color_productos {
+   background-color: aliceblue;
+   text-align: center;
+   font-family: impact, bold;
+   color: rgb(105, 133, 147);
+   font-size: 100px;
+}
+
+p {
+   color: white;
+   font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+   font-size: 20px;
+}
+
+h2 {
+   font-family: Arial, Gadget, sans-serif;
+   font-size: 40px;
+   padding: 10px;
+
+}
+
+
+.aspiradora_color {
+   color: rgb(230, 203, 190);
+}
+
+
+.celulares_color {
+   color: rgb(161, 193, 203);
+}
+
+
+.consolas_color {
+   color: rgb(188, 189, 191);
+}
+
+
+.ht_color {
+   color: rgb(126, 140, 157);
+}
+
+.televisores_color {
+   color: rgb(178, 178, 170);
+}
+
+.imagen_padding {
+   width: 500px;
+   margin-left: 80px;
+}
+
+.aspborder {
+   border: 6px solid rgb(230, 203, 190);;
+}
+
+.celborder2 {
+   border: 6px solid rgb(161, 193, 203)
+}
+
+.consolasborder3 {
+   border: 6px solid rgb(188, 189, 191);
+}
+
+.htborder4 {
+   border: 6px solid rgb(126, 140, 157);
+}
+
+.tvborder5 {
+   border: 6px solid rgb(178, 178, 170);
+}
