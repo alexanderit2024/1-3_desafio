@@ -7,10 +7,14 @@
 .color_productos {
    background-color: aliceblue;
    text-align: center;
-   font-family: impact, bold;
+   font-family: impact, sans-serif;
+   font-weight: bold;
    color: rgb(105, 133, 147);
    font-size: 100px;
+   padding-left: 15px;
+   padding-right: 15px;
 }
+
 
 p {
    color: white;
@@ -22,7 +26,6 @@ h2 {
    font-family: Arial, Gadget, sans-serif;
    font-size: 40px;
    padding: 10px;
-
 }
 
 
@@ -55,7 +58,8 @@ h2 {
 }
 
 .aspborder {
-   border: 6px solid rgb(230, 203, 190);;
+   border: 6px solid rgb(230, 203, 190);
+   ;
 }
 
 .celborder2 {
